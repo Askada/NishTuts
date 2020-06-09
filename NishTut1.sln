@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NishTut2", "NishTut2\NishTu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NishTut3", "NishTut3\NishTut3.csproj", "{14A4EB95-B4EB-450D-93FA-7E35CB50F41D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NishTut4", "NishTut4\NishTut4.csproj", "{33B17CF6-F441-4435-B1DC-A8385A27645F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NishTut4", "NishTut4\NishTut4.csproj", "{33B17CF6-F441-4435-B1DC-A8385A27645F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BossFighting", "BossFighting\BossFighting.csproj", "{E933BE75-AA3B-4F0C-85DB-0E66E9709361}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{33B17CF6-F441-4435-B1DC-A8385A27645F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33B17CF6-F441-4435-B1DC-A8385A27645F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33B17CF6-F441-4435-B1DC-A8385A27645F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E933BE75-AA3B-4F0C-85DB-0E66E9709361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E933BE75-AA3B-4F0C-85DB-0E66E9709361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E933BE75-AA3B-4F0C-85DB-0E66E9709361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E933BE75-AA3B-4F0C-85DB-0E66E9709361}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
