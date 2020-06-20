@@ -1,0 +1,13 @@
+C:\Microsoft VS Repos\NishTuts-master\NishTuts-master\BossFighting\bin\Debug\netcoreapp3.1\BossFighting.exe
+C:\Microsoft VS Repos\NishTuts-master\NishTuts-master\BossFighting\bin\Debug\netcoreapp3.1\BossFighting.deps.json
+C:\Microsoft VS Repos\NishTuts-master\NishTuts-master\BossFighting\bin\Debug\netcoreapp3.1\BossFighting.runtimeconfig.json
+C:\Microsoft VS Repos\NishTuts-master\NishTuts-master\BossFighting\bin\Debug\netcoreapp3.1\BossFighting.runtimeconfig.dev.json
+C:\Microsoft VS Repos\NishTuts-master\NishTuts-master\BossFighting\bin\Debug\netcoreapp3.1\BossFighting.dll
+C:\Microsoft VS Repos\NishTuts-master\NishTuts-master\BossFighting\bin\Debug\netcoreapp3.1\BossFighting.pdb
+C:\Microsoft VS Repos\NishTuts-master\NishTuts-master\BossFighting\obj\Debug\netcoreapp3.1\BossFighting.csprojAssemblyReference.cache
+C:\Microsoft VS Repos\NishTuts-master\NishTuts-master\BossFighting\obj\Debug\netcoreapp3.1\BossFighting.AssemblyInfoInputs.cache
+C:\Microsoft VS Repos\NishTuts-master\NishTuts-master\BossFighting\obj\Debug\netcoreapp3.1\BossFighting.AssemblyInfo.cs
+C:\Microsoft VS Repos\NishTuts-master\NishTuts-master\BossFighting\obj\Debug\netcoreapp3.1\BossFighting.csproj.CoreCompileInputs.cache
+C:\Microsoft VS Repos\NishTuts-master\NishTuts-master\BossFighting\obj\Debug\netcoreapp3.1\BossFighting.dll
+C:\Microsoft VS Repos\NishTuts-master\NishTuts-master\BossFighting\obj\Debug\netcoreapp3.1\BossFighting.pdb
+C:\Microsoft VS Repos\NishTuts-master\NishTuts-master\BossFighting\obj\Debug\netcoreapp3.1\BossFighting.genruntimeconfig.cache
