@@ -1,0 +1,12 @@
+D:\ftp\NishTuts-master\PickMaxNumber\obj\Debug\netcoreapp3.1\PickMaxNumber.AssemblyInfoInputs.cache
+D:\ftp\NishTuts-master\PickMaxNumber\obj\Debug\netcoreapp3.1\PickMaxNumber.AssemblyInfo.cs
+D:\ftp\NishTuts-master\PickMaxNumber\obj\Debug\netcoreapp3.1\PickMaxNumber.csproj.CoreCompileInputs.cache
+D:\ftp\NishTuts-master\PickMaxNumber\bin\Debug\netcoreapp3.1\PickMaxNumber.exe
+D:\ftp\NishTuts-master\PickMaxNumber\bin\Debug\netcoreapp3.1\PickMaxNumber.deps.json
+D:\ftp\NishTuts-master\PickMaxNumber\bin\Debug\netcoreapp3.1\PickMaxNumber.runtimeconfig.json
+D:\ftp\NishTuts-master\PickMaxNumber\bin\Debug\netcoreapp3.1\PickMaxNumber.runtimeconfig.dev.json
+D:\ftp\NishTuts-master\PickMaxNumber\bin\Debug\netcoreapp3.1\PickMaxNumber.dll
+D:\ftp\NishTuts-master\PickMaxNumber\bin\Debug\netcoreapp3.1\PickMaxNumber.pdb
+D:\ftp\NishTuts-master\PickMaxNumber\obj\Debug\netcoreapp3.1\PickMaxNumber.dll
+D:\ftp\NishTuts-master\PickMaxNumber\obj\Debug\netcoreapp3.1\PickMaxNumber.pdb
+D:\ftp\NishTuts-master\PickMaxNumber\obj\Debug\netcoreapp3.1\PickMaxNumber.genruntimeconfig.cache
